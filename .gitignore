@@ -1,0 +1,16 @@
+# Build output and proprietary game content must remain local.
+.build/
+build/
+dist/
+*.app
+*.vpk
+*.bsp
+*.dylib
+*.sav
+*.acf
+*.vdf
+*.log
+__pycache__/
+*.py[cod]
+.DS_Store
+.env
